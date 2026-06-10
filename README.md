@@ -25,3 +25,5 @@ Lap Up is in **private beta** on TestFlight. Want in? Reach out: **arjunbindusun
 
 ---
 *Lap Up — stay current on what's actually new in your field.*
+
+[Privacy Policy](https://lap-api.hardwareautomate.com/privacy)
